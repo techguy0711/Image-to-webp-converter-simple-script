@@ -6,4 +6,5 @@ Just a simple script to turn any image into a webp file type image
 * Script tested only on MacOS
 
 Simple usage, just drag or paste image into terminal and thats it, new webp file will show in image directory with same name.
+
 <img width="569" alt="Screen Shot 2023-01-22 at 5 26 44 PM" src="https://user-images.githubusercontent.com/32556867/213946236-3e8e8b7b-5728-4c3d-8303-58023fa3f700.png">
